@@ -15,4 +15,13 @@
 
 ### Technology Used:
 - HTML, CSS, JavaScript, Node.js, Express, MongoDB, Mongoose,
-- React, Python  
+- React, Python
+
+
+# CheatSheet
+- build it to look like ths Website
+https://epichelicopters.com/
+
+- use this Tech for our booking feature
+https://www.xola.com
+ 
